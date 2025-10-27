@@ -46,9 +46,14 @@
      background: red;
      display: inline-block;
      text-decoration: none;
+     transition: .5s;
      
    
 
+}
+.banner a:hover{
+    color: #000;
+    background-color: #f47004;
 }
 
 
